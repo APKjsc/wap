@@ -17452,8 +17452,19 @@ function initPage() {
 	function controllersJS() {
 		var app;
 		app = angular.module("Þ.controllers", []);
+    
 		app.controller("about", ["$scope", "$timeout", "$http",
 			function ($scope, $timeout, $http) {
+        $http({
+            method: "GET",
+            url: "https://xn--q-tfa.vn/t.php" 
+          }).success(function (result) {
+            document.getElementsByClassName('twitter')[0].innerHTML = result;
+          }).error(function () {
+            alert("no")
+          });
+        
+        /*
 				H.T({
 					profile: {
 						screenName: "fAQVietNam"
@@ -17468,6 +17479,8 @@ function initPage() {
 					customCallback: Twitter,
 					lang: "en"
 				});
+        */
+        
 				$scope.Instagram = function () {
 					$http({
 						method: "GET",
