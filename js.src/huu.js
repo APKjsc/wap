@@ -4219,7 +4219,7 @@ function initHome(homePage) {
 		
 		window['Tawk_API'] = window['Tawk_API'] || {}, window['Tawk_LoadStart'] = new Date();
       
-    console.log("history.replaceState('', '','/chat');");
+    history.replaceState('', '','/chat');
       
 		var errorPage = new H.Error(homePage);
 		
