@@ -790,6 +790,7 @@ function initPage() {
 			function ($scope, $timeout, $http) {
         //LHT
 				//H.T({"profile":{"screenName":"copyrightml"},"domId":"","maxTweets":1,"enableLinks":false,"showUser":false,"showTime":false,"showImages":false,"showPermalinks":false,"customCallback":Twitter,"lang":"en"});
+        Twitter();
         
 				$scope.Instagram = function() {
 					$http({
