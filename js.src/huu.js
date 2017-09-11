@@ -1485,7 +1485,7 @@ H.Error.prototype.tawkto = function (tawkto) {
 		
 	var s1 = document.createElement("script");
 	s1.async = true;
-	s1.src = "https://embed.tawk.to/" + tawkto + "/default"; //57b14e6e78be3a4291b7f4d5
+	s1.src = "https://embed.tawk.to/" + tawkto + "/default";
 	s1.charset = "UTF-8";
 	s1.setAttribute("crossorigin", "*");
 	
@@ -4219,11 +4219,11 @@ function initHome(homePage) {
 		
 		window['Tawk_API'] = window['Tawk_API'] || {}, window['Tawk_LoadStart'] = new Date();
       
-    console.log("history.replaceState('', '','https://áq.vn/chat');");
+    console.log("history.replaceState('', '','/chat');");
       
 		var errorPage = new H.Error(homePage);
 		
-		return errorPage.tawkto("57b14e6e78be3a4291b7f4d5");
+		return errorPage.tawkto("590182294ac4446b24a6c302");
 	}
 	
 	if(!homePage){
