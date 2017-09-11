@@ -1,7 +1,7 @@
 var txtProject = [{
 	"title": "LeongHup FeedMill",
 	"description": "Tan Truong - Cam Giang - Hai Duong",
-	"url": "",
+	"url": Projects + "album.php?id=1304845372977143",
 	"img": [{
 		"url": Projects + "LeongHupFeedMill.jpg"
 	}],
