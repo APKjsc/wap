@@ -834,7 +834,6 @@ function initPage() {
 			
 				//hteeml
 				$scope.Mailto = window['Mailto'];
-				$scope.RootPage = window['RootPage'];
 				$scope.Socials = window['Socials'];
 				
         //LHT
