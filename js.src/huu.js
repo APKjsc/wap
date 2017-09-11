@@ -825,7 +825,7 @@ window['H'] = window['H'] || {
 							r(c, c - a.length)
 						})
 					})
-				})(["limg.png"], function (a, b) {
+				})(["img/limg.png"], function (a, b) {
 					r = Math.ceil(100 * b / a)
 				});
 				var f = window.setInterval(function () {
