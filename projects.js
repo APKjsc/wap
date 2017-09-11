@@ -1,7 +1,7 @@
 var txtProject = [{
 	"title": "LeongHup FeedMill",
 	"description": "Tan Truong - Cam Giang - Hai Duong",
-	"url": Projects + "a?id=1304844769643870",
+	"url": Projects + "ject?id=1304844769643870",
 	"img": [{
 		"url": Projects + "LeongHupFeedMill.jpg"
 	}],
@@ -11,7 +11,7 @@ var txtProject = [{
 }, {
 	"title": "Office Nguyen Binh Khiem",
 	"description": "Nguyen Binh Khiem - HCM",
-	"url": Projects + "a?id=1304845012977179",
+	"url": Projects + "ject?id=1304845012977179",
 	"img": [{
 		"url": Projects + "OfficeNguyenBinhKhiem.jpg"
 	}],
@@ -21,7 +21,7 @@ var txtProject = [{
 }, {
 	"title": "Sagopha Pharmaceutical",
 	"description": "VSIP II - Binh Duong",
-	"url": Projects + "a?id=1304845142977166",
+	"url": Projects + "ject?id=1304845142977166",
 	"img": [{
 		"url": Projects + "SagophaPharmaceutical.jpg"
 	}],
@@ -31,7 +31,7 @@ var txtProject = [{
 }, {
 	"title": "URC Central Dung Quat",
 	"description": "Dung Quat - Son Tinh - Quang Ngai",
-	"url": Projects + "a?id=1304845372977143",
+	"url": Projects + "ject?id=1304845372977143",
 	"img": [{
 		"url": Projects + "URCCentralDungQuat.jpg"
 	}],
@@ -41,7 +41,7 @@ var txtProject = [{
 }, {
 	"title": "Emivest FeedMill Tien Giang",
 	"description": "Tan Huong - Chau Thanh - Tien Giang",
-	"url": Projects + "a?id=1304844312977249",
+	"url": Projects + "ject?id=1304844312977249",
 	"img": [{
 		"url": Projects + "EmivestFeedMillTienGiang.jpg"
 	}],
@@ -51,7 +51,7 @@ var txtProject = [{
 }, {
 	"title": "URC Coffee Cream",
 	"description": "VSIP II - Binh Duong",
-	"url": Projects + "a?id=1304845519643795",
+	"url": Projects + "ject?id=1304845519643795",
 	"img": [{
 		"url": Projects + "URCCoffeeCream.jpg"
 	}],
@@ -61,7 +61,7 @@ var txtProject = [{
 }, {
 	"title": "Emivest Feedmill Bau Bang",
 	"description": "Bau Bang - Ben Cat - Binh Duong",
-	"url": Projects + "a?id=1304844156310598",
+	"url": Projects + "ject?id=1304844156310598",
 	"img": [{
 		"url": Projects + "EmivestFeedmillBauBang.jpg"
 	}],
@@ -71,7 +71,7 @@ var txtProject = [{
 }, {
 	"title": "Hatchery Vung Tau",
 	"description": "Dat Do - Ba Ria Vung Tau",
-	"url": Projects + "a?id=1304844612977219",
+	"url": Projects + "ject?id=1304844612977219",
 	"img": [{
 		"url": Projects + "HatcheryVungTau.jpg"
 	}],
@@ -81,7 +81,7 @@ var txtProject = [{
 }, {
 	"title": "CP Ben Tre Aqua Feed",
 	"description": "An Hiep - Ben Tre",
-	"url": Projects + "a?id=1304843469644000",
+	"url": Projects + "ject?id=1304843469644000",
 	"img": [{
 		"url": Projects + "CPBenTreAquaFeed.jpg"
 	}],
@@ -91,7 +91,7 @@ var txtProject = [{
 }, {
 	"title": "CP Binh Duong",
 	"description": "Binh Duong",
-	"url": Projects + "a?id=1304843839643963",
+	"url": Projects + "ject?id=1304843839643963",
 	"img": [{
 		"url": Projects + "CPBinhDuong.jpg"
 	}],
@@ -101,7 +101,7 @@ var txtProject = [{
 }, {
 	"title": "CP Hai Duong",
 	"description": "Tan Truong - Cam Giang - Hai Duong",
-	"url": Projects + "a?id=1304844012977279",
+	"url": Projects + "ject?id=1304844012977279",
 	"img": [{
 		"url": Projects + "CPHaiDuong.jpg"
 	}],
@@ -111,7 +111,7 @@ var txtProject = [{
 }, {
 	"title": "CP Binh Dinh",
 	"description": "Nhon Hoa - An Nhon - Binh Dinh",
-	"url": Projects + "a?id=1304843626310651",
+	"url": Projects + "ject?id=1304843626310651",
 	"img": [{
 		"url": Projects + "CPBinhDinh.jpg"
 	}],
@@ -121,7 +121,7 @@ var txtProject = [{
 }, {
 	"title": "Ben Tre Probiotic Plant",
 	"description": "An Hiep - Ben Chau Thanh - Ben Tre",
-	"url": Projects + "a?id=1304839419644405",
+	"url": Projects + "ject?id=1304839419644405",
 	"img": [{
 		"url": Projects + "BenTreProbioticPlant.jpg"
 	}],
@@ -131,7 +131,7 @@ var txtProject = [{
 }, {
 	"title": "CP Ben Tre Aqua Feed",
 	"description": "Ben Tre",
-	"url": Projects + "a?id=1304843469644000",
+	"url": Projects + "ject?id=1304843469644000",
 	"img": [{
 		"url": Projects + "CPBenTreAquaFeed.jpg"
 	}],
@@ -141,7 +141,7 @@ var txtProject = [{
 }, {
 	"title": "EPIC Designer",
 	"description": "Binh Duong",
-	"url": Projects + "a?id=1304844466310567",
+	"url": Projects + "ject?id=1304844466310567",
 	"img": [{
 		"url": Projects + "EPICDesigner.jpg"
 	}],
