@@ -1488,7 +1488,7 @@ function initPage() {
 							return $timeout(randomVertical, 6000 * v);
 						};
 						scope.$watch('page', function () {
-							if (scope.page === 'auto') {
+							if (scope.page === 's') {
 								scope.rotate.y = -90;
 								cleanup();
 								randomVertical();
@@ -1805,10 +1805,10 @@ function initPage() {
 				page: ''
 				//reload: true
 			});
-			$stateProvider.state("auto", {
-				url: "/auto",
+			$stateProvider.state("s", {
+				url: "/s",
 				//templateUrl: "favicon.ico",
-				page: 'auto'
+				page: 's'
 			});
 			$stateProvider.state("index.about", {
 				url: "about",
