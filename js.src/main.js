@@ -1805,10 +1805,10 @@ function initPage() {
 				page: ''
 				//reload: true
 			});
-			$stateProvider.state("s", {
-				url: "/s",
+			$stateProvider.state("start", {
+				url: "/start",
 				//templateUrl: "favicon.ico",
-				page: 's'
+				page: 'start'
 			});
 			$stateProvider.state("index.about", {
 				url: "about",
