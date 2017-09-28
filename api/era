@@ -14,7 +14,7 @@
 			"entries": [
 				{
 					"title": "Spong",
-					"type": "work",
+					"type": "blog",
 					"client": "Bill Spong",
 					"year": 1965,
 					"url": "spong",
@@ -37,7 +37,7 @@
 				},
 				{
 					"title": "The Expert On Bananas",
-					"type": "work",
+					"type": "blog",
 					"client": "A.H. Robins",
 					"year": 1966,
 					"url": "even-this-expert-on-bananas-likes-it",
@@ -45,7 +45,7 @@
 				},
 				{
 					"title": "You’ll Be Sorry",
-					"type": "work",
+					"type": "blog",
 					"client": "Bank of Virginia",
 					"year": 1967,
 					"url": "youll-be-sorry",
@@ -53,7 +53,7 @@
 				},
 				{
 					"title": "Norman Rockwell",
-					"type": "work",
+					"type": "blog",
 					"client": "Colonial Williamsburg",
 					"year": 1968,
 					"url": "james-blair",
@@ -66,7 +66,7 @@
 				},
 				{
 					"title": "Virginia is for Lovers",
-					"type": "work",
+					"type": "blog",
 					"client": "Virginia Tourism",
 					"year": 1969,
 					"url": "virginia-is-for-lovers",
@@ -79,7 +79,7 @@
 				},
 				{
 					"title": "Virginia is for Lovers Television",
-					"type": "work",
+					"type": "blog",
 					"client": "Virginia Tourism",
 					"year": 1973,
 					"url": "virginia-is-for-lovers-tv",
@@ -111,7 +111,7 @@
 			"entries": [
 				{
 					"title": "$64,000 Gift",
-					"type": "work",
+					"type": "blog",
 					"client": "Bank of Virginia",
 					"year": 1978,
 					"url": "how-to-survive-the-64-000-gift",
@@ -134,7 +134,7 @@
 				},
 				{
 					"title": "Nuclear Power",
-					"type": "work",
+					"type": "blog",
 					"client": "Vepco",
 					"year": 1979,
 					"url": "nuclear_power",
@@ -152,7 +152,7 @@
 				},
 				{
 					"title": "Locomotive",
-					"type": "work",
+					"type": "blog",
 					"client": "EMD",
 					"year": 1982,
 					"url": "locomotive",
@@ -160,7 +160,7 @@
 				},
 				{
 					"title": "Competition",
-					"type": "work",
+					"type": "blog",
 					"client": "Virginia Gentleman",
 					"year": 1982,
 					"url": "rebel-yell",
@@ -178,7 +178,7 @@
 				},
 				{
 					"title": "Coasters",
-					"type": "work",
+					"type": "blog",
 					"client": "Kings Dominion",
 					"year": 1983,
 					"url": "roller-coasters",
@@ -186,7 +186,7 @@
 				},
 				{
 					"title": "Astronaut",
-					"type": "work",
+					"type": "blog",
 					"client": "Bank of Virginia",
 					"year": 1983,
 					"url": "astronaut",
@@ -194,7 +194,7 @@
 				},
 				{
 					"title": "Research",
-					"type": "work",
+					"type": "blog",
 					"client": "Mobil",
 					"year": 1984,
 					"url": "research",
@@ -202,7 +202,7 @@
 				},
 				{
 					"title": "Known For",
-					"type": "work",
+					"type": "blog",
 					"client": "Barnett Bank",
 					"year": 1984,
 					"url": "known-for",
@@ -210,7 +210,7 @@
 				},
 				{
 					"title": "Insecticide Print",
-					"type": "work",
+					"type": "blog",
 					"client": "FMC",
 					"year": 1985,
 					"url": "print",
@@ -218,7 +218,7 @@
 				},
 				{
 					"title": "Print Campaign",
-					"type": "work",
+					"type": "blog",
 					"client": "Henry Ford Museum",
 					"year": 1985,
 					"url": "the-automobile-in-american-life",
@@ -245,7 +245,7 @@
 			"entries": [
 				{
 					"title": "’86 Campaign",
-					"type": "work",
+					"type": "blog",
 					"client": "Virginia Tourism",
 					"year": 1986,
 					"url": "86-campaign",
@@ -258,7 +258,7 @@
 				},
 				{
 					"title": "Print Campaign",
-					"type": "work",
+					"type": "blog",
 					"client": "Barnett Bank",
 					"year": 1987,
 					"url": "print-campaign",
@@ -266,7 +266,7 @@
 				},
 				{
 					"title": "Weed",
-					"type": "work",
+					"type": "blog",
 					"client": "FMC",
 					"year": 1987,
 					"url": "weed",
@@ -284,7 +284,7 @@
 				},
 				{
 					"title": "Manassas",
-					"type": "work",
+					"type": "blog",
 					"client": "Save the Battlefield Coalition",
 					"year": 1988,
 					"url": "save-the-battlefields",
@@ -292,7 +292,7 @@
 				},
 				{
 					"title": "Driving Lesson",
-					"type": "work",
+					"type": "blog",
 					"client": "Wrangler",
 					"year": 1989,
 					"url": "driving-lesson",
@@ -305,7 +305,7 @@
 				},
 				{
 					"title": "Surprise Your Wife",
-					"type": "work",
+					"type": "blog",
 					"client": "Bernie's Tattooing",
 					"year": 1990,
 					"url": "surprise-your-wife",
@@ -313,7 +313,7 @@
 				},
 				{
 					"title": "Hammer",
-					"type": "work",
+					"type": "blog",
 					"client": "FMC",
 					"year": 1990,
 					"url": "hammer",
@@ -336,7 +336,7 @@
 				},
 				{
 					"title": "A Smarter Way to Get Money",
-					"type": "work",
+					"type": "blog",
 					"client": "Bank One",
 					"year": 1992,
 					"url": "a-smarter-way-to-get-money",
@@ -344,7 +344,7 @@
 				},
 				{
 					"title": "Campaign",
-					"type": "work",
+					"type": "blog",
 					"client": "Mercedes-Benz",
 					"year": 1992,
 					"url": "mercedes-benz",
@@ -357,7 +357,7 @@
 				},
 				{
 					"title": "Long Copy Ads",
-					"type": "work",
+					"type": "blog",
 					"client": "Healthtex",
 					"year": 1993,
 					"url": "childrens-clothes",
@@ -375,7 +375,7 @@
 				},
 				{
 					"title": "Print Series",
-					"type": "work",
+					"type": "blog",
 					"client": "Wrangler",
 					"year": 1993,
 					"url": "fade-resistant-checotah-shirts",
@@ -398,7 +398,7 @@
 				},
 				{
 					"title": "Chemotherapy Patients",
-					"type": "work",
+					"type": "blog",
 					"client": "Neupogen",
 					"year": 1994,
 					"url": "chemotherapy-patients",
@@ -406,7 +406,7 @@
 				},
 				{
 					"title": "Rock Band",
-					"type": "work",
+					"type": "blog",
 					"client": "Residence Inn",
 					"year": 1994,
 					"url": "rock-band",
@@ -424,7 +424,7 @@
 				},
 				{
 					"title": "First Campaign",
-					"type": "work",
+					"type": "blog",
 					"client": "JFK Library and Museum",
 					"year": 1995,
 					"url": "the-new-museum",
@@ -447,7 +447,7 @@
 				},
 				{
 					"title": "Cocacola.com",
-					"type": "work",
+					"type": "blog",
 					"client": "Coca-Cola",
 					"year": 1995,
 					"url": "cocacola-com",
@@ -455,7 +455,7 @@
 				},
 				{
 					"title": "Kinetic",
-					"type": "work",
+					"type": "blog",
 					"client": "Seiko",
 					"year": 1995,
 					"url": "kinetic",
@@ -468,7 +468,7 @@
 				},
 				{
 					"title": "Laughing Dog",
-					"type": "work",
+					"type": "blog",
 					"client": "GEICO",
 					"year": 1997,
 					"url": "laughing-dog",
@@ -491,7 +491,7 @@
 				},
 				{
 					"title": "Jackie",
-					"type": "work",
+					"type": "blog",
 					"client": "JFK Library and Museum",
 					"year": 1998,
 					"url": "jackie",
@@ -509,7 +509,7 @@
 				},
 				{
 					"title": "Gecko",
-					"type": "work",
+					"type": "blog",
 					"client": "GEICO",
 					"year": 1999,
 					"url": "press-conference",
@@ -522,7 +522,7 @@
 				},
 				{
 					"title": "Print Series",
-					"type": "work",
+					"type": "blog",
 					"client": "Virginia Holocaust Museum",
 					"year": 1999,
 					"url": "hell-moved-above-ground",
@@ -540,7 +540,7 @@
 				},
 				{
 					"title": "Don’t Jump",
-					"type": "work",
+					"type": "blog",
 					"client": "Career Builder",
 					"year": 2000,
 					"url": "dont-jump",
@@ -553,7 +553,7 @@
 				},
 				{
 					"title": "Go There",
-					"type": "work",
+					"type": "blog",
 					"client": "Timberland",
 					"year": 2000,
 					"url": "go-there",
@@ -566,7 +566,7 @@
 				},
 				{
 					"title": "We Want to Race the Truck",
-					"type": "work",
+					"type": "blog",
 					"client": "UPS",
 					"year": 2000,
 					"url": "we-want-to-race-the-truck",
@@ -574,7 +574,7 @@
 				},
 				{
 					"title": "Result",
-					"type": "work",
+					"type": "blog",
 					"client": "PING",
 					"year": 2001,
 					"url": "result-dryness",
@@ -607,7 +607,7 @@
 				},
 				{
 					"title": "Go Tagless",
-					"type": "work",
+					"type": "blog",
 					"client": "Hanes",
 					"year": 2003,
 					"url": "jackie-and-michael",
@@ -615,7 +615,7 @@
 				},
 				{
 					"title": "Spongmonkeys",
-					"type": "work",
+					"type": "blog",
 					"client": "Quiznos",
 					"year": 2004,
 					"url": "sponge-monkeys",
@@ -623,7 +623,7 @@
 				},
 				{
 					"title": "Caveman",
-					"type": "work",
+					"type": "blog",
 					"client": "GEICO",
 					"year": 2005,
 					"url": "caveman",
@@ -631,7 +631,7 @@
 				},
 				{
 					"title": "There. Barely There.",
-					"type": "work",
+					"type": "blog",
 					"client": "Barely There",
 					"year": 2006,
 					"url": "there-barely-there",
@@ -644,7 +644,7 @@
 				},
 				{
 					"title": "Grady the Badger",
-					"type": "work",
+					"type": "blog",
 					"client": "Johnson Automotive",
 					"year": 2007,
 					"url": "wiggle",
@@ -652,7 +652,7 @@
 				},
 				{
 					"title": "Whiteboard",
-					"type": "work",
+					"type": "blog",
 					"client": "UPS",
 					"year": 2007,
 					"url": "whiteboard",
@@ -684,7 +684,7 @@
 			"entries": [
 				{
 					"title": "We Choose the Moon",
-					"type": "work",
+					"type": "blog",
 					"client": "JFK Library and Museum",
 					"year": 2009,
 					"url": "we-choose-the-moon",
@@ -707,7 +707,7 @@
 				},
 				{
 					"title": "Smack Talk",
-					"type": "work",
+					"type": "blog",
 					"client": "Walmart",
 					"year": 2010,
 					"url": "smack-talk",
@@ -715,7 +715,7 @@
 				},
 				{
 					"title": "Peggy",
-					"type": "work",
+					"type": "blog",
 					"client": "Discover",
 					"year": 2010,
 					"url": "peggy",
@@ -738,7 +738,7 @@
 				},
 				{
 					"title": "BroStache App",
-					"type": "work",
+					"type": "blog",
 					"client": "GEICO",
 					"year": 2011,
 					"url": "brostache-app",
@@ -746,7 +746,7 @@
 				},
 				{
 					"title": "Conveyor Belt",
-					"type": "work",
+					"type": "blog",
 					"client": "Walmart",
 					"year": 2011,
 					"url": "conveyor-belt",
@@ -764,7 +764,7 @@
 				},
 				{
 					"title": "More Birthdays",
-					"type": "work",
+					"type": "blog",
 					"client": "American Cancer Society",
 					"year": 2012,
 					"url": "official-sponser-of-birthdays",
@@ -772,7 +772,7 @@
 				},
 				{
 					"title": "Awesomecross",
-					"type": "work",
+					"type": "blog",
 					"client": "BFGoodrich Tires",
 					"year": 2012,
 					"url": "awesomecross",
@@ -780,7 +780,7 @@
 				},
 				{
 					"title": "What if?",
-					"type": "work",
+					"type": "blog",
 					"client": "Morgan Stanley",
 					"year": 2012,
 					"url": "what-if",
@@ -788,7 +788,7 @@
 				},
 				{
 					"title": "PING.com",
-					"type": "work",
+					"type": "blog",
 					"client": "PING",
 					"year": 2012,
 					"url": "ping-com",
@@ -806,7 +806,7 @@
 				},
 				{
 					"title": "Angry Pilgrim",
-					"type": "work",
+					"type": "blog",
 					"client": "Stove Top",
 					"year": 2012,
 					"url": "angry-pilgrim",
@@ -834,7 +834,7 @@
 				},
 				{
 					"title": "Let’s Solve This",
-					"type": "work",
+					"type": "blog",
 					"client": "Exxon Mobil",
 					"year": 2013,
 					"url": "lets-solve-this",
@@ -842,7 +842,7 @@
 				},
 				{
 					"title": "You’re Only Human",
-					"type": "work",
+					"type": "blog",
 					"client": "GEICO",
 					"year": 2013,
 					"url": "youre-only-human",
@@ -850,7 +850,7 @@
 				},
 				{
 					"title": "Clouds Over Cuba",
-					"type": "work",
+					"type": "blog",
 					"client": "JFK Library and Museum",
 					"year": 2013,
 					"url": "clouds-over-cuba",
@@ -863,7 +863,7 @@
 				},
 				{
 					"title": "Wonderfilled",
-					"type": "work",
+					"type": "blog",
 					"client": "OREO",
 					"year": 2013,
 					"url": "wonderfilled",
@@ -876,7 +876,7 @@
 				},
 				{
 					"title": "Happier Than",
-					"type": "work",
+					"type": "blog",
 					"client": "GEICO",
 					"year": 2013,
 					"url": "happier-than",
@@ -894,7 +894,7 @@
 				},
 				{
 					"title": "Design By What Matters",
-					"type": "work",
+					"type": "blog",
 					"client": "Benjamin Moore",
 					"year": 2014,
 					"url": "design-by-what-matters",
@@ -902,7 +902,7 @@
 				},
 				{
 					"title": "It Stays With You",
-					"type": "work",
+					"type": "blog",
 					"client": "Colonial Williamsburg",
 					"year": 2014,
 					"url": "family",
@@ -910,7 +910,7 @@
 				},
 				{
 					"title": "Mel’s Mini Mini Mart",
-					"type": "work",
+					"type": "blog",
 					"client": "OREO",
 					"year": 2014,
 					"url": "mels-mini-mini-mart",
@@ -923,7 +923,7 @@
 				},
 				{
 					"title": "Mobile App",
-					"type": "work",
+					"type": "blog",
 					"client": "GEICO",
 					"year": 2014,
 					"url": "geico-mobile-app",
@@ -941,7 +941,7 @@
 				},
 				{
 					"title": "The Boston Red Sox Fenway Collection",
-					"type": "work",
+					"type": "blog",
 					"client": "Benjamin Moore",
 					"year": 2014,
 					"url": "green-monster",
@@ -959,7 +959,7 @@
 				},
 				{
 					"title": "Play with OREO",
-					"type": "work",
+					"type": "blog",
 					"client": "OREO",
 					"year": 2015,
 					"url": "play-with-oreo",
@@ -967,7 +967,7 @@
 				},
 				{
 					"title": "Unskippable",
-					"type": "work",
+					"type": "blog",
 					"client": "GEICO",
 					"year": 2015,
 					"url": "unskippable",

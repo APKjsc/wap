@@ -1,7 +1,7 @@
 { "title" : "Competition", "copy" : "\u003Cp\u003EA little trivia:
 Robert E. Lee IV was the marketing manager for this Virginia Gentleman
 print campaign.\u003C\/p\u003E", "client" : "Virginia Gentleman", "year"
-: 1982, "work" : [ { "title" : "Rebel Yell", "id" : "rebel-yell",
+: 1982, "blog" : [ { "title" : "Rebel Yell", "id" : "rebel-yell",
 "medium" : "print", "image" :
 "https:\/\/s3.amazonaws.com\/themartinagency\/fifty\/rebel-yell\/_preview\/Acr590270292629214615.png",
 "image_lg" :
