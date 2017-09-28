@@ -1,0 +1,26 @@
+{
+	"title" : "The Expert On Bananas",
+	"copy" : "\u003Cp\u003EThe agency\u2019s very first campaign.\u003C\/p\u003E\u003Cp\u003E\u201cHere was the idea: we would concentrate on Donnagel\u2019s pleasing banana flavor. How could we do this in a memorable way? Monkeys like bananas. We would use them to dramatize the product difference.\u201d\u003C\/p\u003E  \u003Cp\u003E\u2014David Martin, Co-founder\u003C\/p\u003E",
+	"client" : "A.H. Robins",
+	"year" : 1966,
+	"work" : [
+								{
+				"title" : "Even This Expert on Bananas Likes It",
+				"id" : "even-this-expert-on-bananas-likes-it",
+				"medium" : "print",
+									"image" : "https:\/\/s3.amazonaws.com\/themartinagency\/fifty\/even-this-expert-on-bananas-likes-it\/_preview\/AH-Robins-Expertfront335_1.png",
+					"image_lg" : "https:\/\/s3.amazonaws.com\/themartinagency\/fifty\/even-this-expert-on-bananas-likes-it\/AH-Robins-Expertfront335_1.png"
+							},								{
+				"title" : "A Matter of Taste",
+				"id" : "a-matter-of-taste-paregoric",
+				"medium" : "print",
+									"image" : "https:\/\/s3.amazonaws.com\/themartinagency\/fifty\/a-matter-of-taste-paregoric\/_preview\/AH-Robins-Taste-Single338.png",
+					"image_lg" : "https:\/\/s3.amazonaws.com\/themartinagency\/fifty\/a-matter-of-taste-paregoric\/AH-Robins-Taste-Single338.png"
+							},								{
+				"title" : "The Happiest Solution",
+				"id" : "the-happiest-solution",
+				"medium" : "print",
+									"image" : "https:\/\/s3.amazonaws.com\/themartinagency\/fifty\/the-happiest-solution\/_preview\/AH-Robins-Happiest340.png",
+					"image_lg" : "https:\/\/s3.amazonaws.com\/themartinagency\/fifty\/the-happiest-solution\/AH-Robins-Happiest340.png"
+							}			]
+}

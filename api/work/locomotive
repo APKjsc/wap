@@ -1,0 +1,21 @@
+{ "title" : "Locomotive", "copy" :
+"\u003Cp\u003E\u201cBusiness-to-business advertising can be dull, or it
+can use showmanship to romance a selling point. This ad for GM\u2019s
+Electro-Motive Division did that. \u003Ci\u003EAdweek\u003C\/i\u003E
+called it one of the nation\u2019s \u201810 best\u2019 in
+1985.\u201d\u003C\/p\u003E \u003Cp\u003E\u2014David Martin,
+Co-founder\u003C\/p\u003E", "client" : "EMD", "year" : 1982, "work" : [
+{ "title" : "South Bronx", "id" : "south-bronx", "medium" : "print",
+"image" :
+"https:\/\/s3.amazonaws.com\/themartinagency\/fifty\/south-bronx\/_preview\/emd_bronx_2.png",
+"image_lg" :
+"https:\/\/s3.amazonaws.com\/themartinagency\/fifty\/south-bronx\/emd_bronx_2.png"
+}, { "title" : "Natural Death", "id" : "natural-death", "medium" :
+"print", "image" :
+"https:\/\/s3.amazonaws.com\/themartinagency\/fifty\/natural-death\/_preview\/emd_natural_death_2.png",
+"image_lg" :
+"https:\/\/s3.amazonaws.com\/themartinagency\/fifty\/natural-death\/emd_natural_death_2.png"
+}, { "title" : "Sea", "id" : "sea", "medium" : "print", "image" :
+"https:\/\/s3.amazonaws.com\/themartinagency\/fifty\/sea\/_preview\/train-1.png",
+"image_lg" :
+"https:\/\/s3.amazonaws.com\/themartinagency\/fifty\/sea\/train-1.png" } ] }

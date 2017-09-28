@@ -1,0 +1,26 @@
+{
+	"title" : "Virginia is for Lovers",
+	"copy" : "\u003Cp\u003EThe Virginia Honeymoon appeared in the July 1969 issue of \u003Ci\u003EModern Bride\u003C\/i\u003E magazine. It was the first advertisement to feature the phrase \u201cVirginia is for Lovers.\u201d \u003C\/p\u003E  \u003Cp\u003ERobin McLaughlin, a young copywriter, showed an ad featuring Virginia\u2019s historical attractions with the headline \u201cVirginia is for history lovers.\u201d The idea was to vary the headline with each ad. David Martin wondered if it would be too limiting. George Woltz suggested dropping the modifier and \u201cVirginia is for Lovers\u201d was born. \u003C\/p\u003E",
+	"client" : "Virginia Tourism",
+	"year" : 1969,
+	"work" : [
+								{
+				"title" : "Virginia is for Lovers",
+				"id" : "virginia-is-for-lovers",
+				"medium" : "print",
+									"image" : "https:\/\/s3.amazonaws.com\/themartinagency\/fifty\/virginia-is-for-lovers\/_preview\/50th_65to77_0019_1.png",
+					"image_lg" : "https:\/\/s3.amazonaws.com\/themartinagency\/fifty\/virginia-is-for-lovers\/50th_65to77_0019_1.png"
+							},								{
+				"title" : "The Virginia Honeymoon",
+				"id" : "the-virginia-honeymoon",
+				"medium" : "print",
+									"image" : "https:\/\/s3.amazonaws.com\/themartinagency\/fifty\/the-virginia-honeymoon\/_preview\/Acr32652702926292-11085.png",
+					"image_lg" : "https:\/\/s3.amazonaws.com\/themartinagency\/fifty\/the-virginia-honeymoon\/Acr32652702926292-11085.png"
+							},								{
+				"title" : "Love Is Where You Find It",
+				"id" : "love-is-where-you-find-it",
+				"medium" : "print",
+									"image" : "https:\/\/s3.amazonaws.com\/themartinagency\/fifty\/love-is-where-you-find-it\/_preview\/50th_65to77_0022.png",
+					"image_lg" : "https:\/\/s3.amazonaws.com\/themartinagency\/fifty\/love-is-where-you-find-it\/50th_65to77_0022.png"
+							}			]
+}

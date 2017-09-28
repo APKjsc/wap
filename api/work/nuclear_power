@@ -1,0 +1,23 @@
+{ "title" : "Nuclear Power", "copy" : "\u003Cp\u003EHarry Jacobs gave
+the following answer when asked what work he is most proud of in an
+\u003Ci\u003EAdweek \u003C\/i\u003Einterview.\u003C\/p\u003E
+\u003Cp\u003E\u201cWe did a campaign for nuclear power in the late
+\u201970s, at a time when it was not popular to talk about nuclear
+power. Mike Hughes and I did full-page newspaper ads [with] a picture of
+a power plant, then a huge, huge headline at the top that simply said,
+\u2018Boo.\u2019 Then we had another one, a double-truck newspaper ad,
+that was solid black with a little copy line in the middle that said,
+\u2018Click.\u2019 The point was that this is what will happen if we
+don\u2019t have nuclear power. It was controversial, but it was
+absolutely great stuff.\u201d\u003C\/p\u003E \u003Cp\u003E\u2014Harry
+Jacobs, President \u0026 Chief Creative Officer\u003C\/p\u003E",
+"client" : "Vepco", "year" : 1979, "work" : [ { "title" : "Boo", "id" :
+"boo", "medium" : "print", "image" :
+"https:\/\/s3.amazonaws.com\/themartinagency\/fifty\/boo\/_preview\/vepco_boo_2.png",
+"image_lg" :
+"https:\/\/s3.amazonaws.com\/themartinagency\/fifty\/boo\/vepco_boo_2.png" },
+{ "title" : "Click", "id" : "click", "medium" : "print", "image" :
+"https:\/\/s3.amazonaws.com\/themartinagency\/fifty\/click\/_preview\/vepco_click.png",
+"image_lg" :
+"https:\/\/s3.amazonaws.com\/themartinagency\/fifty\/click\/vepco_click.png"
+} ] }

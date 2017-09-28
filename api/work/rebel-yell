@@ -1,0 +1,19 @@
+{ "title" : "Competition", "copy" : "\u003Cp\u003EA little trivia:
+Robert E. Lee IV was the marketing manager for this Virginia Gentleman
+print campaign.\u003C\/p\u003E", "client" : "Virginia Gentleman", "year"
+: 1982, "work" : [ { "title" : "Rebel Yell", "id" : "rebel-yell",
+"medium" : "print", "image" :
+"https:\/\/s3.amazonaws.com\/themartinagency\/fifty\/rebel-yell\/_preview\/Acr590270292629214615.png",
+"image_lg" :
+"https:\/\/s3.amazonaws.com\/themartinagency\/fifty\/rebel-yell\/Acr590270292629214615.png"
+}, { "title" : "Old Grand-Dad", "id" : "old-grand-dad", "medium" :
+"print", "image" :
+"https:\/\/s3.amazonaws.com\/themartinagency\/fifty\/old-grand-dad\/_preview\/Acr59027029262924748.png",
+"image_lg" :
+"https:\/\/s3.amazonaws.com\/themartinagency\/fifty\/old-grand-dad\/Acr59027029262924748.png"
+}, { "title" : "Jack Daniels", "id" : "jack-daniels", "medium" :
+"print", "image" :
+"https:\/\/s3.amazonaws.com\/themartinagency\/fifty\/jack-daniels\/_preview\/Acr5902702926292-11085.png",
+"image_lg" :
+"https:\/\/s3.amazonaws.com\/themartinagency\/fifty\/jack-daniels\/Acr5902702926292-11085.png"
+} ] }

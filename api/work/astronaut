@@ -1,0 +1,17 @@
+{ "title" : "Astronaut", "copy" : "\u003Cp\u003E
+\u003Ci\u003EAdvertising Age: Best Television Commercials of the Year,
+1984\u003C\/i\u003E featured this ad for Bank of Virginia alongside
+Apple Computer\u2019s Super Bowl commercial launching the Macintosh.
+\u003C\/p\u003E", "client" : "Bank of Virginia", "year" : 1983, "work" :
+[ { "title" : "Astronaut", "id" : "astronaut", "medium" : "tv", "image"
+:
+"https:\/\/s3.amazonaws.com\/themartinagency\/fifty\/astronaut\/_preview\/50th_78to85_0032c.jpg",
+"image_lg" :
+"https:\/\/s3.amazonaws.com\/themartinagency\/fifty\/astronaut\/50th_78to85_0032c.jpg",
+"video" : { "poster" :
+"https:\/\/s3.amazonaws.com\/themartinagency\/fifty\/astronaut\/_poster\/2090\/50th_78to85_0032c.png",
+"h264" :
+"https:\/\/s3.amazonaws.com\/themartinagency\/fifty\/astronaut\/0032-Bank-Of-VA-Astronaut.mp4",
+"webm" :
+"https:\/\/s3.amazonaws.com\/themartinagency\/fifty\/astronaut\/0032-Bank-Of-VA-Astronaut_WebM.webm"
+}, "type" : "is-video" } ] }
