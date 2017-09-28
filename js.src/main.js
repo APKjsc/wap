@@ -1488,7 +1488,7 @@ function initPage() {
 							return $timeout(randomVertical, 6000 * v);
 						};
 						scope.$watch('page', function () {
-							if (scope.page === 's') {
+							if (scope.page === 'start') {
 								scope.rotate.y = -90;
 								cleanup();
 								randomVertical();
